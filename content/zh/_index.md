@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        随机矩阵
+        光学课题组
       image:
-        filename: welcome.jpg
+        filename: research_topic.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        随机矩阵光学将随机矩阵工具箱引入到光波粒二象性的表示中。从 2019 年开始，我们团队专注于利用随机矩阵表示法对光场进行表示、分解、检测和操控。随机矩阵表示为光场中的不同成分提供了一种统计选通策略。例如，在宽场反射成像中的单次散射和多次散射成分；在光谱域光学相干断层扫描中的弹道散射和多次散射成分。选通后的多次散射成分有助于活体组织成像中吸收信息的计算。
   
   - block: collection
     content:
