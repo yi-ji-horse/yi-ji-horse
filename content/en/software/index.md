@@ -5,4 +5,11 @@ date: 2022-10-24
 ---
 
 
-## Software & code
+This is a python Hello Word [code](https://github.com):
+  
+  ```python
+  def hello_world():
+    print("Hello, World!")
+  
+  hello_world()
+  ```
