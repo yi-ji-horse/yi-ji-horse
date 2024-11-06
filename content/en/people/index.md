@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Group Leader
           - Lab Administrator
-          - Phd Student
+          - PhD Student
           - MS Student
           - Alumni
           - Principal Investigators

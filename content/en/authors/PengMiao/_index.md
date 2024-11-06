@@ -10,8 +10,11 @@ last_name: Miao
 authors:
   - PengMiao
 
-# Is this the primary user of the site?
-superuser: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Group Leader
 
 # Role/position
 role: Associate Prof.
@@ -20,6 +23,11 @@ role: Associate Prof.
 organizations:
   - name: Random Matrix Optics Research Group
     url: '/'
+
+
+# Is this the primary user of the site?
+superuser: false
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -67,10 +75,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Group Leader
 ---
 
 Peng Miao is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

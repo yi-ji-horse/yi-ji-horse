@@ -2,7 +2,7 @@
 title: Deep fluorescence imaging in complex media,wavefront shaping meets computational imaging
 date: 2024-04-02
 image:
-  focal_point: 'top'
+  focal_point: 'center'
 ---
 
 
