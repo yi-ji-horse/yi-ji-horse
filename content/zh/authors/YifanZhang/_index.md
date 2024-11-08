@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: Yifan Zhang
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: Yifan
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  YifanZhang
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: MS 2022
 
 # Organizations/Affiliations
 organizations:

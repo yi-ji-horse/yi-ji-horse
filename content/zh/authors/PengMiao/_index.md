@@ -1,29 +1,33 @@
 ---
 # Display name
-title: Jingyi Yu
+title: 苗鹏
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: 鹏
+last_name: 苗
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  - PengMiao
+
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - 组长
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: 组长
 
 # Organizations/Affiliations
 organizations:
-  - name: RMORG
+  - name: 随机矩阵光学课题组
     url: '/'
-
-user_groups:
-  - Alumni
 
 
 # Is this the primary user of the site?
 superuser: false
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,11 +75,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Peng Miao is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

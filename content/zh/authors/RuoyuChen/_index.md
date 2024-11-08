@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: Ruoyu Chen
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: Ruoyu
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  RuoyuChen
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: PhD 2023
 
 # Organizations/Affiliations
 organizations:

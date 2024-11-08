@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: Chengdong Li
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: Chengdong
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  ChengdongLi
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - Alumni
+  - PhD Student
 
 
 # Is this the primary user of the site?

@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: Denghui Zhao
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: Denghui
+last_name: Zhao
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  DenghuiZhao
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: MS 2023
 
 # Organizations/Affiliations
 organizations:

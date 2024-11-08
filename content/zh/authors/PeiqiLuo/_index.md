@@ -1,29 +1,32 @@
 ---
 # Display name
-title: Jingyi Yu
+title: 骆佩琦
 
-# Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+# Full Name (for SEO)
+first_name: 佩琦
+last_name: 骆
 
-# Username (this should match the folder name)
 authors:
-  JingyiYu
+  -  PeiqiLuo
+  
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - 实验室管理员
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: 实验室管理员
 
 # Organizations/Affiliations
 organizations:
   - name: RMORG
     url: '/'
 
-user_groups:
-  - Alumni
 
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,11 +74,12 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

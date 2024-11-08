@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: Zichen Wang
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: Zichen
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  ZichenWang
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: MS 2024
 
 # Organizations/Affiliations
 organizations:

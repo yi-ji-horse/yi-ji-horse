@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: 禹婧祎
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: 婧祎
+last_name: 禹
 
 # Username (this should match the folder name)
 authors:
   JingyiYu
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: 多参数组织成像
 
 # Organizations/Affiliations
 organizations:

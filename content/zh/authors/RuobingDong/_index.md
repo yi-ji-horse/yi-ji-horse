@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jingyi Yu
+title: Ruobing Dong
 
 # Full name (for SEO)
-first_name: Jingyi
-last_name: Yu
+first_name: Ruobing
+last_name: Dong
 
 # Username (this should match the folder name)
 authors:
-  JingyiYu
+  RuobingDong
 
 # Role/position
-role: Multi-parameter tissue imaging
+role: MS student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - Alumni
+  - MS Student
 
 
 # Is this the primary user of the site?
