@@ -1,0 +1,56 @@
+
+{{/*
+jQuery轮播效果（Carousell）
+注意 prev nextl 两个button的href id 和 setction id要一致
+https://blog.csdn.net/chenmo2001/article/details/117674446
+*/}}
+{{ $heroBlock := .Params.heroBlock }}
+{{ $slider_hash_id := "hero_sliders" }}
+{{ $slider_args := dict "wcPage" $ "wcBlock" .Params.heroSlideBlock "wcIdentifier" $slider_hash_id }}
+<section id="section-hero" class="home-section wg-hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-6 text-center text-md-left">
+        <h1 class="hero-title" >{{ $heroBlock.content.title }}</h1>
+        <div class="hero-lead" >
+            {{ $heroBlock.content.text | markdownify }}
+        </div>
+      </div>
+      <div class="col-12 col-md-6 hero-media carousel slide "
+           id="{{ $slider_hash_id }}">
+          {{ partial "blocks/slider.html" $slider_args }}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ $newsBlock := .Params.newsBlock }}
+{{ $pubsBlock := .Params.publicationsBlock }}
+{{ $news_args := dict "wcPage" $ "wcBlock" $newsBlock "wcIdentifier" "latest_news" }}
+{{ $pubs_args := dict "wcPage" $ "wcBlock" $pubsBlock "wcIdentifier" "latest_pubs" }}
+<section id="section-news" class="home-section wg-news">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-7 text-center text-md-left">
+          <div><h1>{{ $newsBlock.content.title }}</h1></div>
+          {{ partial "blocks/collection.html" $news_args }}
+      </div>
+
+      <div class="col-12 col-md-5  text-center text-md-left ">
+        <div><h1>{{ $pubsBlock.content.title }}</h1></div>
+          {{ partial "blocks/collection.html" $pubs_args }}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ $team_args := dict "wcPage" $ "wcBlock" .Params.teamsBlock "wcIdentifier" "meet_the_team" }}
+<section id="section-meet-team" class="home-section wg-team">
+  <div class="container">
+    <div class="row">
+          {{ partial "blocks/markdown.html" $team_args }}
+    </div>
+  </div>
+</section>
